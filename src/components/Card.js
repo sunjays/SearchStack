@@ -4,7 +4,7 @@ import QuestionCard from './QuestionCard';
 
 import FullCard from './FullCard';
 
-import './Card.css'
+import './component.css'
 
 class Card extends Component{
 
