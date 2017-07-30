@@ -1,4 +1,4 @@
-//TODO Add Styles Component
+ //TODO Add Styles Component Styles removed. need to add Glamourous. 
 
 
 body {
