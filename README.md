@@ -1,5 +1,5 @@
 # SearchStack
 Search stack overflow
 
-!(/searchstack/blob/master/SearchStackExch.PNG)
+!(/searchstack/blob/master/SearchStackExch.PNG?raw=true)
 
